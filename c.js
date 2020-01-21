@@ -36,4 +36,4 @@ $(function() {
     
 
     get_results(i,t,vn,yr);
-}
+});
